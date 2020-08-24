@@ -1,0 +1,31 @@
+﻿
+@model proje1.Models.Entity.TBLURUNLER
+
+@{
+    ViewBag.Title = "YeniUrun";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>YeniUrun</h2>
+
+<form class="form-group" method="post">
+
+    <div>
+        <label>Ürün Ad:</label>
+        <input type="text" class="form-control" name="URUNAD" />
+
+        <label>Ürün Kategori:</label>
+        @Html.DropDownListFor(m => m.TBLKATEGORILER.KATEGORIID, (List<SelectListItem>)ViewBag.dgr,new {@class="form-control" })
+
+        <label>Fiyat:</label>
+        <input type="text" class="form-control" name="FİYAT" required="" maxlength="8" />
+    </div>
+
+    <div>
+        <button class="btn btn-info" style=" margin-top : 15px">Kategori Ekle</button>
+    </div>
+
+
+
+
+</form>

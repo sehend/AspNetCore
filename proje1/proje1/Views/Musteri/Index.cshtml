@@ -1,0 +1,59 @@
+﻿
+@using proje1.Models.Entity
+
+@model List<TBLMUSTERILER>
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@using (Html.BeginForm("Index", "Musteri", FormMethod.Get))
+{ 
+
+ <p>
+     <b>Aranacak Kişnin Adı</b>
+
+     @Html.TextBox("p");
+
+     <input type="submit" value="text" />
+
+
+
+ </p>
+
+
+}
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>Müşteri ID</th>
+        <th>Müşteri ADI</th>
+        <th>Müşteri SOYAD</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+
+    </tr>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+
+        <tr>
+            <th>@item.MUSTERIID</th>
+            <td>@item.MUSTERIAD</td>
+            <td>@item.MUSTERISOYAD</td>
+            <th><a href="/Musteri/Sil/@item.MUSTERIID" class="btn btn-danger">Sil</a> </th>
+            <th><a href="/Musteri/MusteriGetir/@item.MUSTERIID" class="btn btn-success">Güncelle</a></th>
+        </tr>
+        }
+
+
+
+    </tbody>
+
+</table>
+
+<a href="/Musteri/YeniMusteri/" class="btn btn-primary">Yeni Müşteri Ekle</a>

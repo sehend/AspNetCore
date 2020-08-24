@@ -1,0 +1,45 @@
+﻿
+@using proje1.Models.Entity
+
+@model List<TBLURUNLER>
+
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>Ürün ID</th>
+        <th>Ürün ADI</th>
+        <th>Ürün Kategori</th>
+        <th>Fiyat</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+    </tr>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            
+        <tr>
+            <th>@item.URUNID</th>
+            <td>@item.URUNAD</td>
+            <td>@item.TBLKATEGORILER.KATEGORIAD</td>
+            <td>@item.FİYAT</td>
+            <th><a href="/Urun/Sil/@item.URUNID" class="btn btn-danger">Sil</a> </th>
+            <th><a href="/Urun/UrunGetir/@item.URUNID" class="btn btn-success">Güncelle</a></th>
+
+        </tr>
+        }
+
+
+
+    </tbody>
+
+</table>
+
+<a href="/Urun/YeniUrun/" class="btn btn-primary">Yeni Ürün Ekle</a>
