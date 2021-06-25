@@ -1,0 +1,352 @@
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\appsettings.json
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\WebApplication16.exe
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\WebApplication16.deps.json
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\WebApplication16.runtimeconfig.json
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\WebApplication16.runtimeconfig.dev.json
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\WebApplication16.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\ref\WebApplication16.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\WebApplication16.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\WebApplication16.Views.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\WebApplication16.Views.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.csprojAssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.AssemblyInfoInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.AssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.RazorAssemblyInfo.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.RazorAssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\staticwebassets\WebApplication16.StaticWebAssets.Manifest.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\staticwebassets\WebApplication16.StaticWebAssets.xml
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\scopedcss\bundle\WebApplication16.styles.css
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.TagHelpers.input.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.TagHelpers.output.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.RazorCoreGenerate.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.RazorTargetAssemblyInfo.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.RazorTargetAssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.Views.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.csproj.CopyComplete
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\ref\WebApplication16.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\WebApplication16.genruntimeconfig.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Mudurs\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Mudurs\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Mudurs\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Mudurs\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Mudurs\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Oppoes\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Oppoes\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Oppoes\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Oppoes\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Oppoes\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Personels\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Personels\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Personels\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Personels\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Personels\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Samsungs\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Samsungs\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Samsungs\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Samsungs\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Samsungs\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Xiaomis\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Xiaomis\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Xiaomis\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Xiaomis\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16\WebApplication16\obj\Debug\net5.0\Razor\Views\Xiaomis\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\appsettings.json
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\WebApplication16.exe
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\WebApplication16.deps.json
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\WebApplication16.runtimeconfig.json
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\WebApplication16.runtimeconfig.dev.json
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\WebApplication16.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\ref\WebApplication16.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\WebApplication16.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\WebApplication16.Views.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\WebApplication16.Views.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.AssemblyInfoInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.AssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.RazorAssemblyInfo.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.RazorAssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\staticwebassets\WebApplication16.StaticWebAssets.Manifest.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\staticwebassets\WebApplication16.StaticWebAssets.xml
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\scopedcss\bundle\WebApplication16.styles.css
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.TagHelpers.input.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.TagHelpers.output.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.RazorCoreGenerate.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Mudurs\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Mudurs\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Mudurs\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Mudurs\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Mudurs\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Oppoes\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Oppoes\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Oppoes\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Oppoes\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Oppoes\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Personels\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Personels\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Personels\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Personels\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Personels\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Samsungs\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Samsungs\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Samsungs\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Samsungs\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Samsungs\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Xiaomis\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Xiaomis\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Xiaomis\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Xiaomis\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Xiaomis\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.RazorTargetAssemblyInfo.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.RazorTargetAssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.Views.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.csproj.CopyComplete
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\ref\WebApplication16.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.genruntimeconfig.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Home\Oppoe1.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Oppoes\Oppo1.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Samsungs\Samsung1.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Xiaomis\Xiaomis1.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Apples\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Apples\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Apples\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Apples\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Apples\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\Razor\Views\Apples\Apple1.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication16 - Kopya\WebApplication16\obj\Debug\net5.0\WebApplication16.csproj.AssemblyReference.cache

@@ -1,0 +1,46 @@
+﻿@model IEnumerable<WebApplication16.Models.Oppo>
+@{
+    ViewData["Title"] = "Oppoe1";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.imageName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OppoAciklama)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fiyat)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src="~/image/Oppo/@item.imageName" asp-append-version="true" width="50" height="50" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OppoAciklama)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fiyat)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.OppoId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.OppoId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.OppoId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,62 @@
+﻿@model WebApplication16.Models.Mudur
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Mudur</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="imageFile" class="control-label"></label>
+                <input asp-for="imageFile" accept="image/Admin/*" />
+                <span asp-validation-for="imageFile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MudurAd" class="control-label"></label>
+                <input asp-for="MudurAd" class="form-control" />
+                <span asp-validation-for="MudurAd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MudurSoyad" class="control-label"></label>
+                <input asp-for="MudurSoyad" class="form-control" />
+                <span asp-validation-for="MudurSoyad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MudurEmail" class="control-label"></label>
+                <input asp-for="MudurEmail" class="form-control" />
+                <span asp-validation-for="MudurEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MudurAdres" class="control-label"></label>
+                <input asp-for="MudurAdres" class="form-control" />
+                <span asp-validation-for="MudurAdres" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PersonelTc" class="control-label"></label>
+                <input asp-for="PersonelTc" class="form-control" />
+                <span asp-validation-for="PersonelTc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UrunId" class="control-label"></label>
+                <select asp-for="UrunId" class ="form-control" asp-items="ViewBag.UrunId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
